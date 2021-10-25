@@ -1,0 +1,7 @@
+[24-Dec-2019 05:37:08 UTC] PHP Notice:  Undefined variable: headers in /home/qubixims/public_html/viralmafia.com/demo/mims-enquiry/email.php on line 13
+[24-Dec-2019 06:43:55 UTC] PHP Notice:  Undefined variable: qmessage in /home/qubixims/public_html/viralmafia.com/demo/mims-enquiry/email.php on line 146
+[24-Dec-2019 06:43:55 UTC] PHP Notice:  Undefined variable: headers in /home/qubixims/public_html/viralmafia.com/demo/mims-enquiry/email.php on line 150
+[24-Dec-2019 06:44:13 UTC] PHP Notice:  Undefined variable: headers in /home/qubixims/public_html/viralmafia.com/demo/mims-enquiry/email.php on line 13
+[24-Dec-2019 06:44:52 UTC] PHP Notice:  Undefined variable: headers in /home/qubixims/public_html/viralmafia.com/demo/mims-enquiry/email.php on line 48
+[01-Jan-2020 05:47:09 UTC] PHP Notice:  Undefined variable: qmessage in /home/qubixims/public_html/viralmafia.com/demo/mims-enquiry/email.php on line 78
+[01-Jan-2020 05:47:09 UTC] PHP Notice:  Undefined variable: headers in /home/qubixims/public_html/viralmafia.com/demo/mims-enquiry/email.php on line 82
